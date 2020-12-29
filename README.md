@@ -5,7 +5,7 @@
 [<img align="left" alt="Anh Khoi Do | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/anhkhoido)
 <br /><br />
 <p>This repository contains a class that receives one URL and parses it as a JSON data. The class is meant to work with the org.json library, which you can find in the public repository of Maven.<p>
-<br /><br />
+<br />
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
